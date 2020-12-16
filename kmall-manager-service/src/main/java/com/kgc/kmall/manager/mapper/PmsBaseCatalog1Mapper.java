@@ -1,4 +1,4 @@
-package com.kgc.kmall.manager.mapepr;
+package com.kgc.kmall.manager.mapper;
 
 import com.kgc.kmall.bean.PmsBaseCatalog1;
 import com.kgc.kmall.bean.PmsBaseCatalog1Example;
